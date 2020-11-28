@@ -1,0 +1,227 @@
+* {
+	margin: 0;
+}
+.black{
+	background-color: #242424;
+}
+.banner{
+	background-color: blue;
+	height: 900px;
+}
+.bio-main{
+	background-color: #242424;
+	height: 500px;
+	border-radius: 50px;
+}
+.img{
+	background-image: url(lyapisdo.jpg);
+	background-size: 100% 100%;
+	transition-duration: 0.5s;
+}
+.img-bio{
+	background-color: grey; 
+	height: 450px;
+	margin-top: 25px;
+	width: 650px;
+	border-radius: 50px;
+	margin-left: 50px;
+}
+.img:hover{
+	background-image: url(lyapisposle.jpg);
+	background-size: 100% 100%
+}
+.group-name{
+	background-color: #ffe6a1;
+	border-radius: 50px;
+	width: 600px;
+	height: 75px;
+	text-align: center;
+	margin-right: 50px
+}
+.group-bio{
+	background-color: #ffe6a1;
+	border-radius: 50px;
+	margin-top: 25px;
+	width: 600px;
+	height: 360px;
+	text-align: center;
+	margin-right: 50px
+}
+.d-flex{
+	display: flex;
+}
+.text-name{
+	margin-top: 20px;
+	font-size: 40px;
+	font-weight: 900;
+	font-family: Arial;
+}
+.text-bio{
+	font-size: 25px;
+	font-weight: 550;
+	font-family: Arial;
+}
+.text-music{
+	margin-top: 30px;
+	font-size: 35px;
+	font-weight: 100;
+	font-family: Arial;
+}
+.text-song{
+	margin-top: 20px;
+	font-size: 30px;
+	font-weight: 100;
+	font-family: Arial;
+}
+.song-main{
+	border-radius: 50px;
+	width: 600px;
+	height: 300px;
+	background-color: #ffe6a1;
+}
+.song-info{
+	border-radius: 50px;
+	width: 750px;
+	height: 290px;
+	padding-top: 10px;
+	background-color: #ffe6a1;
+	text-align: center;
+}
+.song-list{
+	height: 40px;
+	margin-top: 16px;
+	width: 500px;
+}
+.musician-text{
+	margin-top: 30px; 
+	font-size: 35px;
+	font-weight: 900;
+	font-family: Arial;
+}
+.musician-favorite{
+	text-align: center;
+	padding-top: 1px;
+	height: 115px;
+	background-color: #fff4d6;
+	border-radius: 50px;
+}
+.musician-name{
+	text-align: center;
+	padding-top: 1px;
+	height: 115px;
+	background-color: #fff4d6;
+}
+.musician-guitar{
+	background-image: url(vladyko1.jpg);
+	background-size: 100% 100%;
+	transition-duration: 0.5s;
+}
+.musician-guitar:hover{
+	background-image: url(vladyko.jpg);
+	background-size: 100% 100%;
+}
+.musician-bass{
+	background-image: url(sviridovic1.jpg);
+	background-size: 100% 100%;
+	transition-duration: 0.5s;
+}
+.musician-bass:hover{
+	background-image: url(sviridovic.jpg);
+	background-size: 100% 100%;
+}
+.musician-drums{
+	background-image: url(storozhuk1.jpg);
+	background-size: 100% 100%;
+	transition-duration: 0.5s;
+}
+.musician-drums:hover{
+	background-image: url(storozhuk.jpg);
+	background-size: 100% 100%;
+}
+.bio-img{
+	background-color: blue;
+	height: 500px;
+	width: 500px;
+	border-radius: 10px;
+}
+.music-bio{
+	background-color: #ffe6a1;
+	height: 550px;
+	width: 870px;
+	text-align: center;
+	border-radius: 25px;
+}
+.album-favorite{
+	text-align: center;
+	padding-top: 1px;
+	height: 115px;
+	background-color: #fff4d6;
+}
+.album-img{
+	background-color: orange;
+	height: 500px;
+	width: 500px;
+	border-radius: 25px;
+}
+.album-songs{
+	background-color: #ffdc7a;
+	width: 850px;
+	height: 500px;
+	border-radius: 25px;
+}
+.album-toplist{
+	width: 800px;
+	height: 50px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.album-info{
+	background-color: #fff4d6;
+	width: 800px;
+	height: 235px;
+	padding-top: 15px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	border-radius: 50px;
+}
+.album-text{
+	margin-top: 20px;
+	font-size: 25px;
+	font-weight: 100;
+	font-family: Arial;
+}
+.album-rabkor{
+	background-image: url(rabkor.jpg);
+	background-size: 100% 100%;
+}
+.album-tyazhkiy{
+	background-image: url(tyazhkiy.jpg);
+	background-size: 100% 100%;
+}
+.album-prosvet{
+	background-image: url(kultprosvet.jpg);
+	background-size: 100% 100%;
+}
+.album-song{
+	width: 800px;
+	height: 50px;
+}.audio-style{
+	width: 500px;
+	height: 40px;
+}
+.mr-auto{
+	margin-right: auto;
+}
+.ml-auto{
+	margin-left: auto;
+}
+.mt-18{
+	margin-top: 18px;
+}
+.mt-40{
+	margin-top: 40px;
+}
+.mt-23{
+	margin-top: 23px;
+}
